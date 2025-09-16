@@ -1,19 +1,10 @@
-# 🎈 Blank app template
-
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+# requirements.txt
+streamlit==1.23.1
+pandas==2.2.2
+numpy==1.26.4
+requests==2.31.0
+plotly==5.18.0
+matplotlib==3.8.1
+pydeck==0.8.0
+folium==0.14.0
+python-dateutil==2.8.2
